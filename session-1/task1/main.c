@@ -20,7 +20,7 @@ int main( void ) {
     traverseI( first );
 
     // free all node memory (using traversal)
-    freeNodes( first );
+    //freeNodes( first );
 
     return 0;
 }
